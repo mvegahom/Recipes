@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="delegatedBuild" value="false" />
+        <option name="testRunner" value="GRADLE" />
+        <option name="distributionType" value="WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/Recipes/task" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/classes/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/generated/sources/annotationProcessor/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/generated/sources/headers/java" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/reports/tests" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/test-results" />
+            <option value="$PROJECT_DIR$/Recipes/task/build/tmp" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Adding values" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Application as a class" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Get first and last elements" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Inverse boolean flags" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the code print" />
+            <option value="$PROJECT_DIR$/Topics/Arrays as parameters/What does the method print" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Describe the builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Disadvantage of Builder pattern" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Geek Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Robot Builder" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Subway Sandwich" />
+            <option value="$PROJECT_DIR$/Topics/Builder/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Don't be late again" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Find the latest date-time" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Is after, is before" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Is the date between the two other dates?" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Select correct statements" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/The New Year is coming (or not)" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/What is correct" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/What is true?" />
+            <option value="$PROJECT_DIR$/Topics/Comparing dates and time/Which return true" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Account and its owner" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Book" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Complex numbers" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Default constructor" />
+            <option value="$PROJECT_DIR$/Topics/Constructor/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Countries and capitals" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/How many buckets?" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/Theory" />
+            <option value="$PROJECT_DIR$/Topics/HashMap/When to use?" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/2 weeks after" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Convert numbers to days" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Methods of LocalDate" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Print dates of a year with an offset" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Similar date" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/The first and the last day of a month" />
+            <option value="$PROJECT_DIR$/Topics/LocalDate/Theory" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Return time without seconds" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Same time" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds between two time points" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Seconds since start of a day" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Some hours and minutes ago" />
+            <option value="$PROJECT_DIR$/Topics/LocalTime/Theory" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Find mistake" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Publication and its subclasses" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Runtime method resolution" />
+            <option value="$PROJECT_DIR$/Topics/Polymorphism/Theory" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/An uncompiled statement" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Collection class basics" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Frequency of characters" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Multiple swaps" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Non-existing methods" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Sorting sequences" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/The first index of a sublist" />
+            <option value="$PROJECT_DIR$/Topics/The utility class Collections/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Account" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Class hierarchy" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Convert persons and patients to string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Convert vehicles and cars to string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/String representation" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Theory" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Time as a string" />
+            <option value="$PROJECT_DIR$/Topics/toString()/Users as strings" />
+            <option value="$PROJECT_DIR$/Topics/toString()/toString method" />
+            <option value="$PROJECT_DIR$/util" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>

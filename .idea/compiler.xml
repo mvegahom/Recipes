@@ -1,0 +1,237 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Gradle Imported" enabled="true">
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.22/9c08ea24c6eb714e2d6170e8122c069a0ba9aacf/lombok-1.18.22.jar" />
+        </processorPath>
+        <module name="Recipes.Topics-Arrays_as_parameters-Get_first_and_last_elements.test" />
+        <module name="Recipes.Topics-Constructor-Theory.main" />
+        <module name="Recipes.Topics-HashMap-When_to_use_.test" />
+        <module name="Recipes.Topics-LocalDate-Methods_of_LocalDate.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Collection_class_basics.test" />
+        <module name="Recipes.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.test" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.test" />
+        <module name="Recipes.Topics-LocalTime-Theory.test" />
+        <module name="Recipes.Topics-Polymorphism-Find_mistake.test" />
+        <module name="Recipes.Topics-toString__-Class_hierarchy.test" />
+        <module name="Recipes.Topics-toString__-toString_method.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" />
+        <module name="Recipes.Topics-LocalDate-The_first_and_the_last_day_of_a_month.test" />
+        <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.main" />
+        <module name="Recipes.Topics-LocalTime-Same_time.test" />
+        <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.main" />
+        <module name="Recipes.Topics-Builder-Describe_the_builder.test" />
+        <module name="Recipes.Topics-LocalTime-Seconds_between_two_time_points.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.test" />
+        <module name="Recipes.Topics-toString__-Convert_persons_and_patients_to_string.main" />
+        <module name="Recipes.util.main" />
+        <module name="Recipes.Topics-LocalDate-2_weeks_after.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.test" />
+        <module name="Recipes.Topics-toString__-Class_hierarchy.main" />
+        <module name="Recipes.Topics-LocalTime-Seconds_between_two_time_points.main" />
+        <module name="Recipes.Topics-LocalTime-Same_time.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.test" />
+        <module name="Recipes.Topics-LocalTime-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.test" />
+        <module name="Recipes.Topics-toString__-toString_method.main" />
+        <module name="Recipes.Recipes-task-build-reports-tests.main" />
+        <module name="Recipes.Topics-toString__-Convert_persons_and_patients_to_string.test" />
+        <module name="Recipes.util.test" />
+        <module name="Recipes.Topics-Builder-Describe_the_builder.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Adding_values.test" />
+        <module name="Recipes.Topics-HashMap-When_to_use_.main" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Inverse_boolean_flags.test" />
+        <module name="Recipes.Topics-LocalDate-The_first_and_the_last_day_of_a_month.main" />
+        <module name="Recipes.Topics-LocalDate-Methods_of_LocalDate.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.main" />
+        <module name="Recipes.Topics-Constructor-Default_constructor.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.main" />
+        <module name="Recipes.Topics-Builder-Theory.main" />
+        <module name="Recipes.Recipes-task-build-reports-tests.test" />
+        <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-An_uncompiled_statement.test" />
+        <module name="Recipes.Topics-HashMap-Countries_and_capitals.main" />
+        <module name="Recipes.Topics-toString__-Time_as_a_string.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-An_uncompiled_statement.main" />
+        <module name="Recipes.Topics-Polymorphism-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Find_the_latest_date-time.test" />
+        <module name="Recipes.Recipes-task.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Adding_values.main" />
+        <module name="Recipes.Topics-HashMap-Countries_and_capitals.test" />
+        <module name="Recipes.Topics-HashMap-Theory.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.test" />
+        <module name="Recipes.Topics-toString__-Theory.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Theory.test" />
+        <module name="Recipes.Topics-Polymorphism-Theory.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.main" />
+        <module name="Recipes.Topics-Builder-Theory.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Theory.main" />
+        <module name="Recipes.Topics-toString__-Time_as_a_string.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true_.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_code_print.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.test" />
+        <module name="Recipes.Topics-HashMap-How_many_buckets_.test" />
+        <module name="Recipes.Topics-LocalDate-Similar_date.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.test" />
+        <module name="Recipes.Topics-toString__-Account.test" />
+        <module name="Recipes.Recipes-task-build-tmp.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.test" />
+        <module name="Recipes.Recipes-task-build-generated-sources-headers-java.test" />
+        <module name="Recipes.Recipes-task.main" />
+        <module name="Recipes.Topics-LocalTime-Some_hours_and_minutes_ago.test" />
+        <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.test" />
+        <module name="Recipes.Recipes-task-build-test-results.test" />
+        <module name="Recipes.Topics-Constructor-Book.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Theory.test" />
+        <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_code_print.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.test" />
+        <module name="Recipes.Topics-LocalDate-Theory.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true_.test" />
+        <module name="Recipes.Topics-LocalTime-Some_hours_and_minutes_ago.main" />
+        <module name="Recipes.Topics-HashMap-Theory.main" />
+        <module name="Recipes.Topics-toString__-Theory.main" />
+        <module name="Recipes.Recipes-task-build-test-results.main" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Find_the_latest_date-time.main" />
+        <module name="Recipes.Topics-toString__-String_representation.test" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.main" />
+        <module name="Recipes.Topics-LocalDate-Theory.test" />
+        <module name="Recipes.Topics-Constructor-Account_and_its_owner.test" />
+        <module name="Recipes.Recipes-task-build-tmp.test" />
+        <module name="Recipes.Topics-Constructor-Book.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-Theory.test" />
+        <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.test" />
+        <module name="Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.main" />
+        <module name="Recipes.Topics-Constructor-Complex_numbers.main" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.test" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.test" />
+        <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.main" />
+        <module name="Recipes.Topics-toString__-String_representation.main" />
+        <module name="Recipes.Topics-Polymorphism-Publication_and_its_subclasses.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.test" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" />
+        <module name="Recipes.Topics-Builder-Subway_Sandwich.test" />
+        <module name="Recipes.Topics-Constructor-Default_constructor.main" />
+        <module name="Recipes.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" />
+        <module name="Recipes.Topics-Polymorphism-Runtime_method_resolution.test" />
+        <module name="Recipes.Topics-Polymorphism-Find_mistake.main" />
+        <module name="Recipes.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.test" />
+        <module name="Recipes.Recipes-task-build-classes-java.main" />
+        <module name="Recipes.Topics-Builder-Robot_Builder.main" />
+        <module name="Recipes.Topics-Constructor-Account_and_its_owner.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.test" />
+        <module name="Recipes.Topics-Constructor-Complex_numbers.test" />
+        <module name="Recipes.Topics-toString__-Account.main" />
+        <module name="Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.test" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.main" />
+        <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.main" />
+        <module name="Recipes.Topics-HashMap-How_many_buckets_.main" />
+        <module name="Recipes.Topics-LocalDate-Similar_date.test" />
+        <module name="Recipes.Topics-Polymorphism-Runtime_method_resolution.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Collection_class_basics.main" />
+        <module name="Recipes.Topics-Polymorphism-Publication_and_its_subclasses.test" />
+        <module name="Recipes.Topics-Builder-Geek_Builder.test" />
+        <module name="Recipes.Topics-Constructor-Theory.test" />
+        <module name="Recipes.Topics-toString__-Users_as_strings.main" />
+        <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.main" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="17">
+      <module name="Recipes.Recipes-task-build-classes-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-annotationProcessor-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-generated-sources-headers-java.main" target="11" />
+      <module name="Recipes.Recipes-task-build-reports-tests.main" target="11" />
+      <module name="Recipes.Recipes-task-build-test-results.main" target="11" />
+      <module name="Recipes.Recipes-task-build-tmp.main" target="11" />
+      <module name="Recipes.Recipes-task.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Adding_values.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Application_as_a_class.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Get_first_and_last_elements.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Inverse_boolean_flags.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-Theory.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_code_print.main" target="11" />
+      <module name="Recipes.Topics-Arrays_as_parameters-What_does_the_method_print.main" target="11" />
+      <module name="Recipes.Topics-Builder-Describe_the_builder.main" target="11" />
+      <module name="Recipes.Topics-Builder-Disadvantage_of_Builder_pattern.main" target="11" />
+      <module name="Recipes.Topics-Builder-Geek_Builder.main" target="11" />
+      <module name="Recipes.Topics-Builder-Robot_Builder.main" target="11" />
+      <module name="Recipes.Topics-Builder-Subway_Sandwich.main" target="11" />
+      <module name="Recipes.Topics-Builder-Theory.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Don't_be_late_again.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Find_the_latest_date-time.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Is_after,_is_before.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Is_the_date_between_the_two_other_dates_.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Select_correct_statements.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-The_New_Year_is_coming__or_not_.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Theory.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-What_is_correct.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-What_is_true_.main" target="11" />
+      <module name="Recipes.Topics-Comparing_dates_and_time-Which_return_true.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Account_and_its_owner.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Book.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Complex_numbers.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Default_constructor.main" target="11" />
+      <module name="Recipes.Topics-Constructor-Theory.main" target="11" />
+      <module name="Recipes.Topics-HashMap-Countries_and_capitals.main" target="11" />
+      <module name="Recipes.Topics-HashMap-How_many_buckets_.main" target="11" />
+      <module name="Recipes.Topics-HashMap-Theory.main" target="11" />
+      <module name="Recipes.Topics-HashMap-When_to_use_.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-2_weeks_after.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Convert_numbers_to_days.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Methods_of_LocalDate.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Print_dates_of_a_year_with_an_offset.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Similar_date.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-The_first_and_the_last_day_of_a_month.main" target="11" />
+      <module name="Recipes.Topics-LocalDate-Theory.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Return_time_without_seconds.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Same_time.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Seconds_between_two_time_points.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Seconds_since_start_of_a_day.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Some_hours_and_minutes_ago.main" target="11" />
+      <module name="Recipes.Topics-LocalTime-Theory.main" target="11" />
+      <module name="Recipes.Topics-Polymorphism-Find_mistake.main" target="11" />
+      <module name="Recipes.Topics-Polymorphism-Publication_and_its_subclasses.main" target="11" />
+      <module name="Recipes.Topics-Polymorphism-Runtime_method_resolution.main" target="11" />
+      <module name="Recipes.Topics-Polymorphism-Theory.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-An_uncompiled_statement.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Collection_class_basics.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Frequency_of_characters.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Multiple_swaps.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Non-existing_methods.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Sorting_sequences.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-The_first_index_of_a_sublist.main" target="11" />
+      <module name="Recipes.Topics-The_utility_class_Collections-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Account.main" target="11" />
+      <module name="Recipes.Topics-toString__-Class_hierarchy.main" target="11" />
+      <module name="Recipes.Topics-toString__-Convert_persons_and_patients_to_string.main" target="11" />
+      <module name="Recipes.Topics-toString__-Convert_vehicles_and_cars_to_string.main" target="11" />
+      <module name="Recipes.Topics-toString__-String_representation.main" target="11" />
+      <module name="Recipes.Topics-toString__-Theory.main" target="11" />
+      <module name="Recipes.Topics-toString__-Time_as_a_string.main" target="11" />
+      <module name="Recipes.Topics-toString__-toString_method.main" target="11" />
+      <module name="Recipes.Topics-toString__-Users_as_strings.main" target="11" />
+      <module name="Recipes.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
